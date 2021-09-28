@@ -27,15 +27,7 @@ A sample image for the blurring augmentation is shown on the right-hand side whi
 
 MODULE 2: FACE MASK CLASSIFIER
 
-Glimpse of the Processed_Training_Data Folder
-without_mask:
-Folder “Processed_Training_Data” has different persons images who are without mask in their faces in “without_mask” sub-folder which is shown in the below figure 4.4
 
-Figure 4.4: without_mask folder
-with_mask
-Folder “Processed_Training_Data” has different persons images who are with mask in their faces in “with_mask” sub-folder which is shown in the below figure 4.5
-
-Figure 4.5: with_mask folder
 TESTING THE FACE MASK CLASSIFIER ON AN IMAGE
 
 ![image](https://user-images.githubusercontent.com/72460414/132218902-340e9a03-4207-42c7-a9f1-f4a1dc15e710.png)
